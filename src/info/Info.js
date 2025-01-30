@@ -74,8 +74,8 @@ export const info = {
     bio: "Hi, I’m Pranav Dhangar from Kalyan, Mumbai. I recently graduated  During my studies, I built several projects, including an NFT marketplace developed with a team using the MERN stack and blockchain technology, and some solo projects. Additionally, I completed a comprehensive web development bootcamp on Udemy, which strengthened my skills in full-stack development.",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'nodejs' , 'tailwindCSS' , 'express' , 'SQL' , 'graphql' , 'mongodb' , 'postman'],
-            exposedTo: ['jquery', 'python', 'java']
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'nodejs' , 'tailwindCSS' , 'express' , 'SQL' , 'java' , 'mongodb' , 'postman'],
+            exposedTo: ['jquery', 'python', 'graphql']
         }
     ,
     hobbies: [
