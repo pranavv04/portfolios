@@ -112,8 +112,8 @@ export const info = {
         },
         {
             title: "NFT Marketplace",
-            live: "https://github.com/pranavv04",
-            source: "https://github.com/pranavv04",
+            live: "https://ether-nova-blockchain-powered-nft-trading-platform.vercel.app/",
+            source: "https://github.com/Surajsc007/EtherNova-Blockchain-Powered-NFT-Trading-Platform",
             image: mock4
         },
         
