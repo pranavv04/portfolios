@@ -105,10 +105,10 @@ export const info = {
             image: mock2
         },
         {
-            title: "AI-Gpt",
-            live: "https://ai-gpt-kappa.vercel.app/",
-            source: "https://github.com/pranavv04/Ai-gpt",
-            image: mock3
+            title: "Socials",
+            live: "https://socials-puce-six.vercel.app/login",
+            source: "https://github.com/pranavv04/Socials",
+            image: mock5
         },
         {
             title: "NFT Marketplace",
